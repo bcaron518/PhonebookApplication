@@ -49,10 +49,11 @@ To install and run the application, follow the steps below:
     ./scripts/test.sh
     ```
 
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
-
 ## License
+This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your projects.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Author
+Benjamin Caron - https://github.com/bcaron518
+
+## Contributing
+If you'd like to contribute to this repository or improve the code examples, please feel free to open an issue or submit a pull request. Your contributions are welcome.
